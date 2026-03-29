@@ -1,0 +1,32 @@
+﻿R31,R10,R31_Name,_Name
+XAF,AFRICA,Sub-Saharan Africa,Africa
+XNF,AFRICA,North Africa,Africa
+ZAF,AFRICA,South Africa,Africa
+CHN,CHINA+,China,China+
+KOR,CHINA+,Korea,China+
+XEA,CHINA+,East Asia (rest),China+
+XE15,EUROPE,Western Europe (EU15),Europe
+XE10,EUROPE,Eastern Europe (EU10),Europe
+XE3,EUROPE,Southeast Europe (EU3),Europe
+XEWI,EUROPE,Western Europe (Independent),Europe
+XENI,EUROPE,Non-EU Europe,Europe
+XEEI,REF_ECON,Eastern Europe (Independent),Reforming Economies
+TUR,EUROPE,Turkey,Europe
+IND,INDIA+,India,India+
+XSA,INDIA+,South Asia,India+
+BRA,LATIN_AM,Brazil,Latin America
+XLM,LATIN_AM,Latin America,Latin America
+MEX,LATIN_AM,Mexico,Latin America
+XME,MIDDLE_EAST,Middle East,Middle East
+USA,NORTH_AM,United States,North America
+CAN,NORTH_AM,Canada,North America
+AUS,PAC_OECD,Australia,Pacific OECD
+JPN,PAC_OECD,Japan,Pacific OECD
+XOC,PAC_OECD,Oceania,Pacific OECD
+RUS,REF_ECON,Russia,Reforming Economies
+XCS,REF_ECON,Central Asia,Reforming Economies
+IDN,REST_ASIA,Indonesia,Rest of Asia
+MYS,REST_ASIA,Malaysia,Rest of Asia
+THA,REST_ASIA,Thailand,Rest of Asia
+VNM,REST_ASIA,Vietnam,Rest of Asia
+XSE,REST_ASIA,Southeast Asia (rest),Rest of Asia
